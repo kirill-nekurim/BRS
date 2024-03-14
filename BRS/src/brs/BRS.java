@@ -14,6 +14,9 @@ public class BRS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+        NewJFrame nf = new NewJFrame();
+        nf.setVisible(true);
         System.out.println("Hello, world!");
     }
     
