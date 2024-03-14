@@ -14,7 +14,8 @@ public class BRS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        NewJFrame nf = new NewJFrame();
+        nf.setVisible(true);
     }
     
 }
